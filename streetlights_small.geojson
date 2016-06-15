@@ -1,0 +1,4464 @@
+{
+	"name" : "STREET_LIGHTING",
+	"type" : "FeatureCollection",
+	"features" : [{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.83264348937759, 51.4173222900204]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 7615,
+				"Unit_Number" : 1,
+				"Street" : "ABBEY CLOSE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 15 s/o 63 Bishops Drive nr jnct",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481274.53,
+				"Northing" : 169345.84,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.832504408463443, 51.4171127099075]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 7616,
+				"Unit_Number" : 2,
+				"Street" : "ABBEY CLOSE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 1 opposite 12",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481284.57,
+				"Northing" : 169322.69,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.832511453333998, 51.4168873251652]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 7617,
+				"Unit_Number" : 3,
+				"Street" : "ABBEY CLOSE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opp. 5 at end of close by parking access",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481284.48,
+				"Northing" : 169297.62,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835495908614626, 51.4151580456255]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16123,
+				"Unit_Number" : 1,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Near Glebelands Road junction",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481080,
+				"Northing" : 169102,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835268317123662, 51.415300604473]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16124,
+				"Unit_Number" : 2,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "S/o \"The Lodge\" opp s/o 1 by prkg access",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481095.58,
+				"Northing" : 169118.11,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.834926327161504, 51.4155030642996]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16125,
+				"Unit_Number" : 3,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 7 in footpath",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481119,
+				"Northing" : 169141,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.83542383411511, 51.4155075578887]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16126,
+				"Unit_Number" : 4,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite \"Woolf Cottages\"",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481084.4,
+				"Northing" : 169140.95,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835697140978931, 51.4157264682538]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16127,
+				"Unit_Number" : 5,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Corner of Woolf Dr (ent to Glebelands H)",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481065,
+				"Northing" : 169165,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835463524703615, 51.4158680686986]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16128,
+				"Unit_Number" : 6,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 15/16",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481081,
+				"Northing" : 169181,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835131436394049, 51.4159187061152]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16129,
+				"Unit_Number" : 7,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 17 to 24",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481104,
+				"Northing" : 169187,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "Fault"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.834998457947532, 51.4160612156371]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16130,
+				"Unit_Number" : 8,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 36",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481113,
+				"Northing" : 169203,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.834744031495468, 51.4158878879301]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16131,
+				"Unit_Number" : 9,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "By car park of 39 to 60",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481131,
+				"Northing" : 169184,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.83441399898042, 51.4158576388798]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16132,
+				"Unit_Number" : 10,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 43 to 50 in footpath",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481154,
+				"Northing" : 169181,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.834596613187763, 51.4161459474365]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16133,
+				"Unit_Number" : 11,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 118 to 121 by car park",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481140.79,
+				"Northing" : 169212.86,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.834974516959993, 51.4164387135402]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16134,
+				"Unit_Number" : 12,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Side of 116/117 in footpath",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481114,
+				"Northing" : 169245,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835041097938408, 51.4166461320143]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16135,
+				"Unit_Number" : 13,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Outside 101/102",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481109,
+				"Northing" : 169268,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835453430632806, 51.4168301069753]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16136,
+				"Unit_Number" : 14,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Side of 97/98",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481080,
+				"Northing" : 169288,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835821331010881, 51.4159345483063]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16137,
+				"Unit_Number" : 15,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite rear of 15",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481056,
+				"Northing" : 169188,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835929691200475, 51.4161964076111]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16138,
+				"Unit_Number" : 16,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 62",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481048,
+				"Northing" : 169217,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "Fault"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835965305393955, 51.4164935022514]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16139,
+				"Unit_Number" : 17,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite car park of 63 to 84",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481045,
+				"Northing" : 169250,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835872159787942, 51.4167623501178]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16140,
+				"Unit_Number" : 18,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "Opposite rear of 84/84",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481051,
+				"Northing" : 169280,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.835722326832611, 51.4170035767847]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 16141,
+				"Unit_Number" : 19,
+				"Street" : "ACORN DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Glebelands Estate",
+				"Area" : "Wokingham",
+				"Location" : "At start of footpath to Tamarisk Rise",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 481061,
+				"Northing" : 169307,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "STEEL",
+				"Lamp_Type" : "SOX35L",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.879267398320941, 51.4336777661953]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25699,
+				"Unit_Number" : 1,
+				"Street" : "ARBOR CLOSE",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 1 near Arbor Lane junction",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478004.62,
+				"Northing" : 171114.15,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.879249101137254, 51.4338972016783]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25700,
+				"Unit_Number" : 2,
+				"Street" : "ARBOR CLOSE",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Side of 1 opposite 7 & 8 on corner",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478005.52,
+				"Northing" : 171138.57,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.879051073762656, 51.4340451615817]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25701,
+				"Unit_Number" : 3,
+				"Street" : "ARBOR CLOSE",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 12 opp side of 9 at end of close",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478019.03,
+				"Northing" : 171155.24,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.972309220588399, 51.3999792455405]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25439,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Side of \"The Firs\" nr Basingstoke Rd jct",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471589.56,
+				"Northing" : 167271.71,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.971928452712611, 51.4000245393947]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25440,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Near 1 side of \"The Firs\" Basingstoke Rd",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471615.97,
+				"Northing" : 167277.12,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.971603194259198, 51.4000257317421]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25441,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Outside 3 opposite side of 18",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471638.6,
+				"Northing" : 167277.57,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.9715357207387, 51.3998369025557]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25442,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Outside 17 opposite 5",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471643.59,
+				"Northing" : 167256.63,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.971363451505014, 51.399643737878]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25443,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Outside 16 opposite 7",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471655.87,
+				"Northing" : 167235.32,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.971225743239339, 51.3995531751975]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25444,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Outside 11/12",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471665.59,
+				"Northing" : 167225.38,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.971073180027894, 51.3996863171263]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25445,
+				"Unit_Number" : 0,
+				"Street" : "HILLTOP GARDENS",
+				"Town" : "SPENCERS WOOD",
+				"Location" : "Side of 7 opposite 9",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 471676,
+				"Northing" : 167240.34,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "SON-T50",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.852872037895138, 51.5030003552739]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25752,
+				"Unit_Number" : 1,
+				"Street" : "KINGS ACRE",
+				"Town" : "Wargrave",
+				"Sub_Area" : "Upper Wargrave",
+				"Area" : "Wargrave",
+				"Location" : "First column in close opposite T-junct'n",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 479718.7,
+				"Northing" : 178851.97,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.852552476979098, 51.5029817686967]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25753,
+				"Unit_Number" : 2,
+				"Street" : "KINGS ACRE",
+				"Town" : "Wargrave",
+				"Sub_Area" : "Upper Wargrave",
+				"Area" : "Wargrave",
+				"Location" : "Opposite 2",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 479740.91,
+				"Northing" : 178850.25,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.811124633345477, 51.4157880154454]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25483,
+				"Unit_Number" : 1,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "1st col in new rd south of new r'ndabout",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482773.65,
+				"Northing" : 169199.27,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.811130873740184, 51.415538261998]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25989,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 8 in footpath by balancing pond",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482773.67,
+				"Northing" : 169171.48,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.811414674369206, 51.4151651110624]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25990,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 8 in footpath by balancing pond",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482754.61,
+				"Northing" : 169129.67,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.811285006050103, 51.414884584104]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25991,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 2 in footpath to Cygnus Grove",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482764.13,
+				"Northing" : 169098.62,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810702600276173, 51.4156666922887]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25965,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 5 opposite side of 8",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482803.22,
+				"Northing" : 169186.25,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810166066173921, 51.4156994533366]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25966,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 25 opposite T-junction",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482840.47,
+				"Northing" : 169190.5,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.80960538744756, 51.4157305284601]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25967,
+				"Unit_Number" : 7,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 35 opposite 24 on corner",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482879.4,
+				"Northing" : 169194.59,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809532316793156, 51.415467024917]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25968,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 26 opposite open space",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482884.96,
+				"Northing" : 169165.37,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809041746712972, 51.4152960072683]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25969,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 32 opposite open space",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482919.38,
+				"Northing" : 169146.9,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808667487723849, 51.4154719037679]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25970,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 38 by open space",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482945.09,
+				"Northing" : 169166.89,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808394997317284, 51.4152767602162]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25971,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 38 opp Libra Crescent north jnct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482964.39,
+				"Northing" : 169145.49,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808095741861304, 51.41506228627]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25972,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 48 & 49 & opp s/o 40 by f'tpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482985.59,
+				"Northing" : 169121.98,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.80844809565476, 51.4149810076475]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25973,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 46 opposite 70 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482961.24,
+				"Northing" : 169112.54,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807893582159019, 51.4148300109537]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25974,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 50 opposite 63",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483000.07,
+				"Northing" : 169096.38,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807731785381619, 51.4145548166143]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25975,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 69 side of 54 near 52",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483011.82,
+				"Northing" : 169065.95,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807936734269763, 51.4143332432145]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25976,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 77 side of 56",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482997.97,
+				"Northing" : 169041.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808477541646535, 51.4140716644283]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25977,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 83 in cul-de-sac",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482960.83,
+				"Northing" : 169011.38,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808621094063063, 51.4138947726419]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25978,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "South of 83 in footpath to Plough Lane",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482951.17,
+				"Northing" : 168991.55,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808344916014503, 51.4143025139178]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25979,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 85 opposite 56/58",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482969.64,
+				"Northing" : 169037.2,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808366174629201, 51.4145839200231]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25980,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 68 opposite side of 41",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482967.65,
+				"Northing" : 169068.47,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.8085854434936, 51.4148559219844]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25981,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 70 opposite 41 & 82/84 by f'path",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482951.91,
+				"Northing" : 169098.48,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809113606927574, 51.4148575127631]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25982,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 93 opposite 88 & sub-station",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482915.18,
+				"Northing" : 169098.06,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809561719028477, 51.4150059849716]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25983,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "O/s flats 90-100(evens) opp Gemini Drive",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482883.75,
+				"Northing" : 169114.06,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809996474862693, 51.41519863786]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25984,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "O/s flats 106-116?(evens) opp Cygnus Grv",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482853.17,
+				"Northing" : 169134.99,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810139207182791, 51.4154826249429]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25985,
+				"Unit_Number" : 0,
+				"Street" : "CARINA DRIVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Side of 16 oppos side of 14 near T-junct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482842.73,
+				"Northing" : 169166.42,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.80814390123632, 51.4154490525405]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25992,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "R/o 3 opp s/o 41 Carina Dr nr north jnct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482981.54,
+				"Northing" : 169164.94,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.80799913628625, 51.4156221558247]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25994,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opp. side of 5 in footpath to Carina Drv",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482991.3,
+				"Northing" : 169184.35,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.808405399319244, 51.4155470887893]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25993,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 3 in footpath to Carina Drive",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482963.18,
+				"Northing" : 169175.54,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807675351579625, 51.4154800661662]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25995,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Oppos side of 2 by footpath to Carina Dr",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483014.07,
+				"Northing" : 169168.92,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807294223307084, 51.41522250705]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25996,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 4",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483041.04,
+				"Northing" : 169140.7,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807122205139358, 51.4149301279325]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25997,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 8",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483053.53,
+				"Northing" : 169108.38,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.807224879876237, 51.4145839101205]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25998,
+				"Unit_Number" : 0,
+				"Street" : "LIBRA CRESCENT",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 10 near Carina Drive south jnct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 483047.02,
+				"Northing" : 169069.76,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810389190386886, 51.4149920007165]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25521,
+				"Unit_Number" : 0,
+				"Street" : "CYGNUS GROVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 2/3 opposite 14",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482826.23,
+				"Northing" : 169111.57,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810793745988237, 51.4147904265635]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25964,
+				"Unit_Number" : 0,
+				"Street" : "CYGNUS GROVE",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 7 opposite 8",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482798.46,
+				"Northing" : 169088.7,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809691014100695, 51.4148256210355]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25522,
+				"Unit_Number" : 0,
+				"Street" : "GEMINI GARDENS",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 1 opposite 2 near Carina Dr jnct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482875.08,
+				"Northing" : 169093.86,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.80995450141481, 51.4145729956246]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25963,
+				"Unit_Number" : 0,
+				"Street" : "GEMINI GARDENS",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opp s/o 8 & 21 by footpath to 8-16/21-29",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482857.22,
+				"Northing" : 169065.46,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810188887620761, 51.4143177370207]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25987,
+				"Unit_Number" : 0,
+				"Street" : "GEMINI GARDENS",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opposite 8/10 & 21/23 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482841.38,
+				"Northing" : 169036.81,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810707257780599, 51.4144909197245]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25988,
+				"Unit_Number" : 0,
+				"Street" : "GEMINI GARDENS",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Opp side of 16 in footpath to Cygnus Grv",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482805.02,
+				"Northing" : 169055.49,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.809945073313526, 51.4143515796714]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 25986,
+				"Unit_Number" : 0,
+				"Street" : "GEMINI GARDENS",
+				"Town" : "Wokingham",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "Outside 23/25 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482858.27,
+				"Northing" : 169040.85,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.868340030954564, 51.4342084524045]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26265,
+				"Unit_Number" : 2,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 4 opp. side of 4 Poplar Cottages",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478763.3,
+				"Northing" : 171184.84,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867929027631519, 51.4342854793333]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26266,
+				"Unit_Number" : 3,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 1 opposite 10/12",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478791.73,
+				"Northing" : 171193.85,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867401708634703, 51.4342358896297]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26267,
+				"Unit_Number" : 4,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 9 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478828.47,
+				"Northing" : 171188.9,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867351783110934, 51.4340339553736]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26268,
+				"Unit_Number" : 5,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Side of 16 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478832.29,
+				"Northing" : 171166.49,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.86718083713021, 51.4338334588822]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26269,
+				"Unit_Number" : 6,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 31 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478844.52,
+				"Northing" : 171144.38,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867441024014825, 51.4336723655544]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26270,
+				"Unit_Number" : 7,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 39 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478826.71,
+				"Northing" : 171126.18,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867829408528159, 51.4337904611855]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26271,
+				"Unit_Number" : 8,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Side of 22 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478799.51,
+				"Northing" : 171138.9,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.868338054563972, 51.4337170738404]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26272,
+				"Unit_Number" : 9,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 49 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478764.28,
+				"Northing" : 171130.19,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.868439533648353, 51.4339353265015]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26273,
+				"Unit_Number" : 10,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Outside 26 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478756.85,
+				"Northing" : 171154.36,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.868577312319885, 51.4341438612243]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26274,
+				"Unit_Number" : 11,
+				"Street" : "BLACKBERRY GARDENS",
+				"Town" : "Winnersh",
+				"Sub_Area" : "Winnersh",
+				"Area" : "Winnersh",
+				"Location" : "Side of 2 - CHECK LOCATION",
+				"Owner" : "Wokingham BC",
+				"Maintained_by_WBC___True_or_Fal" : true,
+				"Maintenance_Responsibility" : "Maintained by Wokingham Borough Council",
+				"Easting" : 478746.91,
+				"Northing" : 171177.4,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977958469713154, 51.4038882130705]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26264,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp. side of 51 Grazeley Road near junct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471190.51,
+				"Northing" : 167700.94,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978203005502191, 51.4041808805417]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26369,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 3",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471173.05,
+				"Northing" : 167733.25,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978174790356605, 51.4044257742542]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26371,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 7",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471174.63,
+				"Northing" : 167760.51,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977790201013127, 51.4047102605696]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26372,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite side of 2 side of 1 Elk Path",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471200.94,
+				"Northing" : 167792.52,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977146331343626, 51.4047730536596]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26373,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "O/s flats 31-47 odds by Fawn Dr west jct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471245.63,
+				"Northing" : 167800.13,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976620238519733, 51.4046573540163]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26370,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 1 Sika Gardens",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471282.4,
+				"Northing" : 167787.77,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976166688031559, 51.4049241532565]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26374,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 22 opposite 51",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471313.54,
+				"Northing" : 167817.88,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975679145390121, 51.405104535754]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26446,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 30 opp flats in cul-de-sac",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471347.17,
+				"Northing" : 167838.42,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975345898938119, 51.4049098807027]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26447,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 44 in cul-de-sac",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471370.65,
+				"Northing" : 167817.09,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975091302506049, 51.4049354323101]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26448,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 46 by parking bays in cul-de-sac",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471388.32,
+				"Northing" : 167820.18,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975958871047903, 51.4053497818746]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26375,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 61",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471327.33,
+				"Northing" : 167865.42,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975531195182732, 51.4054925718231]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26376,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp Fawn Drive west jnct nr Caribou Walk",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471356.86,
+				"Northing" : 167881.71,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975118443869431, 51.4057471384402]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26377,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 75",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471385.17,
+				"Northing" : 167910.43,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974670403007912, 51.4058832748906]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26378,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 81",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471416.12,
+				"Northing" : 167926,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974502244053255, 51.4062203430645]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26379,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 58 opposite 83",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471427.29,
+				"Northing" : 167963.65,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974853604997791, 51.4065329193516]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26380,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 89 opposite 68",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471402.37,
+				"Northing" : 167998.07,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.97490625009932, 51.4069035611407]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26381,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 95 opposite 70",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471398.13,
+				"Northing" : 168039.24,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974512355211059, 51.4071676394131]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26382,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite side of 72",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471425.12,
+				"Northing" : 168068.99,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978014719971564, 51.4037576386769]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26931,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 51 Grazeley Road nr mini-rbt jct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471186.8,
+				"Northing" : 167686.36,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "6.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "UNKNOWN?",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974140867393586, 51.4071717606394]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26383,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Nr Basingstoke Rd jnct by traffic lights",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471450.95,
+				"Northing" : 168069.81,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "0.0 metres",
+				"Column_Material" : "Unknown",
+				"Lamp_Type" : "UNKNOWN?",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978690420584045, 51.4048090786553]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26917,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "In prkg area opp r/o 11 Tabby/18 Roe Gdn",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471138.17,
+				"Northing" : 167802.64,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977041646530147, 51.4056187573879]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26919,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 14 Elk Path in parking area",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471251.6,
+				"Northing" : 167894.28,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976115575221851, 51.4046278672688]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26922,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Rear of 8 opposite 12 & 16 in cul-de-sac",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471317.55,
+				"Northing" : 167784.98,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976796084171113, 51.4049098716141]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26923,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "O/s flats 31-47 opp s/o 49 in parkg area",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471269.78,
+				"Northing" : 167815.68,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975739167786671, 51.4048319636378]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26924,
+				"Unit_Number" : 0,
+				"Street" : "TABBY DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 34 in parking area",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471343.42,
+				"Northing" : 167808.04,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978754654765125, 51.4044104211274]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26459,
+				"Unit_Number" : 0,
+				"Street" : "ROE GARDENS",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Near 21 side of 5 Tabby Drive opp T-jnct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471134.32,
+				"Northing" : 167758.24,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978890092704132, 51.4041943282329]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26460,
+				"Unit_Number" : 0,
+				"Street" : "ROE GARDENS",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 2 opposite side of 14",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471125.24,
+				"Northing" : 167734.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.979111190004164, 51.4039640588156]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26916,
+				"Unit_Number" : 0,
+				"Street" : "ROE GARDENS",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 4/5 oppoiste 10",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471110.21,
+				"Northing" : 167708.25,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976871779897251, 51.4045454746467]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26439,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 4 opposite 1 near Tabby Dr junct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471265.08,
+				"Northing" : 167775.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976918330976796, 51.4043397550379]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26440,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 8 opposite side of 6",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471262.16,
+				"Northing" : 167752.16,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977762104662045, 51.4038967488678]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26443,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 49 Grazeley Road in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471204.16,
+				"Northing" : 167702.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.97778223779147, 51.4042325868532]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26444,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 18 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471202.24,
+				"Northing" : 167739.4,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.97781600893619, 51.4045468793892]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26445,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 2 Tabby Drive in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471199.4,
+				"Northing" : 167774.32,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976745572923455, 51.4042676808646]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26441,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 10 opposite 7",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471274.29,
+				"Northing" : 167744.31,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976565671400717, 51.403984563946]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26442,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 39 Grazeley Road in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471287.24,
+				"Northing" : 167713,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977486540307322, 51.4043261043466]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26920,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 20 opposite side of 18",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471222.66,
+				"Northing" : 167750.09,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977090125360126, 51.4043221966983]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26921,
+				"Unit_Number" : 0,
+				"Street" : "SIKA GARDENS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Rear of 8 near 12",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471250.24,
+				"Northing" : 167750.04,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977360385621952, 51.4048963671933]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26433,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 2 side of 29 Tabby Drive nr jct",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471230.55,
+				"Northing" : 167813.63,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977230570960674, 51.4051150244002]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26434,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 8 opposite parking area",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471239.24,
+				"Northing" : 167838.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976867388626405, 51.4053373982396]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26435,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 12 opposite side of 27",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471264.16,
+				"Northing" : 167863.16,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976486801517312, 51.4056383657245]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26436,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 18 opposite 31",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471290.16,
+				"Northing" : 167897,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.97613975513334, 51.405833190984]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26437,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 20/22 opp access to 41-51(odds)",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471314,
+				"Northing" : 167919,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975777529085546, 51.4056248000866]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26438,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of(?) 26 Fawn Drive near junction",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471339.52,
+				"Northing" : 167896.18,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977605989495422, 51.4051890451732]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26918,
+				"Unit_Number" : 0,
+				"Street" : "FAWN DRIVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "CHECK LOCATION",
+				"Owner" : "Private",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471213.01,
+				"Northing" : 167845.94,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "4.0 metres",
+				"Column_Material" : "Steel",
+				"Lamp_Type" : "SON70",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974296003750044, 51.4058325360646]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26455,
+				"Unit_Number" : 0,
+				"Street" : "SAMBAR GROVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 1 near Tabby Drive junction",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471442.24,
+				"Northing" : 167920.72,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974305751851793, 51.4054761935212]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26456,
+				"Unit_Number" : 0,
+				"Street" : "SAMBAR GROVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 6",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471442.12,
+				"Northing" : 167881.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974346627028848, 51.4052492103945]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26457,
+				"Unit_Number" : 0,
+				"Street" : "SAMBAR GROVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 7",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471439.63,
+				"Northing" : 167855.8,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974315158699306, 51.4050927001236]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26458,
+				"Unit_Number" : 0,
+				"Street" : "SAMBAR GROVE",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 7 by turning head",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471442.06,
+				"Northing" : 167838.43,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975435533900315, 51.4053705593751]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26453,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside flats 1-21 opp green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471363.7,
+				"Northing" : 167868.24,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974955165392098, 51.4052455433683]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26452,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 24/25 opposite green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471397.31,
+				"Northing" : 167854.8,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974549626337032, 51.4049389657426]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26449,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 29/30 in footpath to Grazeley Rd",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471425.99,
+				"Northing" : 167821.1,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974751809624627, 51.4052642608781]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26450,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 26 in footpath to Grazeley Road",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471411.42,
+				"Northing" : 167857.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974647984285539, 51.4055234148319]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26454,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "S/o 35 opp s/o 36 in f/p to Sambar Grove",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471418.24,
+				"Northing" : 167886,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974972150753484, 51.4056099404418]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26451,
+				"Unit_Number" : 0,
+				"Street" : "CARIBOU WALK",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp. 38 & green in footpath nr Tabby Drv",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471395.56,
+				"Northing" : 167895.31,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.978027039819416, 51.4049601618264]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26431,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Near 5 opposite 17 Tabby Drive in f'path",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471184.08,
+				"Northing" : 167820.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977991547481934, 51.4052655802553]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26430,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 8/9 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471186.08,
+				"Northing" : 167854.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977595611030557, 51.4055588664557]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26429,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 10 side of 5 Fawn Dr in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471213.16,
+				"Northing" : 167887.08,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.977228433197251, 51.4058168043869]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26428,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 15/16 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471238.3,
+				"Northing" : 167916.12,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.9768306419125, 51.4060812160098]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26427,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp. side of 20 & parking bays in f'path",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471265.56,
+				"Northing" : 167945.92,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976441717147912, 51.4063571201714]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26426,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 21 and green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471292.18,
+				"Northing" : 167976.98,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.976162088143796, 51.4062292770357]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26425,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 45 Fawn Drv opp green in f'tpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471311.83,
+				"Northing" : 167963.03,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975715945057114, 51.4060362440218]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26424,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Side of 47 Fawn Drv opp green in f'tpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471343.16,
+				"Northing" : 167942,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975241536877633, 51.4059200009732]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26419,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Near 28 side of 75 Tabby Drive in f'path",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471376.34,
+				"Northing" : 167929.53,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975453290949604, 51.4062311752991]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26420,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 34 opposite green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471361.13,
+				"Northing" : 167963.93,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975832058415122, 51.4063147597003]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26423,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp. s/o(?) 36 in footpath across green",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471334.65,
+				"Northing" : 167972.86,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975686477019387, 51.4065010955683]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26421,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Outside 37 opposite green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471344.49,
+				"Northing" : 167993.72,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975989725102411, 51.4066010993645]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26418,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite(?) 38 & green in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471323.24,
+				"Northing" : 168004.55,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975981607779569, 51.406906216892]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26422,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp s/o(?) 38 in footpath to Woodcock Ln",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471323.33,
+				"Northing" : 168038.49,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975723880699234, 51.4069175393814]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26417,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opp side of(?) 38 near 39 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471341.24,
+				"Northing" : 168040,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.975346952643933, 51.4071599245589]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26416,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite side of 43 in footpath",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471367.08,
+				"Northing" : 168067.32,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.974905019600359, 51.4072502696141]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26415,
+				"Unit_Number" : 0,
+				"Street" : "ELK PATH",
+				"Town" : "THREE MILE CROSS",
+				"Sub_Area" : "Three Mile Cross",
+				"Area" : "Shinfield",
+				"Location" : "Opposite 44 in f'tpath by balancing pond",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 471397.68,
+				"Northing" : 168077.8,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.897891911167366, 51.4490744339901]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26399,
+				"Unit_Number" : 1,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476684.23,
+				"Northing" : 172806.79,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.897366263687809, 51.4490801002644]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26400,
+				"Unit_Number" : 2,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476720.75,
+				"Northing" : 172807.97,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.896926335141093, 51.4490836040131]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26401,
+				"Unit_Number" : 3,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476751.31,
+				"Northing" : 172808.82,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.896551771077744, 51.449323960961]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26402,
+				"Unit_Number" : 4,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476776.94,
+				"Northing" : 172835.95,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.89629856561265, 51.4492944304056]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26403,
+				"Unit_Number" : 5,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476794.58,
+				"Northing" : 172832.93,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.896387228671923, 51.4490913866349]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26404,
+				"Unit_Number" : 6,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476788.76,
+				"Northing" : 172810.25,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.89599029008132, 51.4490933137745]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26405,
+				"Unit_Number" : 7,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476816.34,
+				"Northing" : 172810.88,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.895661807018486, 51.4490955246549]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26406,
+				"Unit_Number" : 8,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476839.16,
+				"Northing" : 172811.47,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.895476517563162, 51.4492215181592]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26407,
+				"Unit_Number" : 9,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476851.83,
+				"Northing" : 172825.68,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.895229877837408, 51.4492985707925]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26408,
+				"Unit_Number" : 10,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476868.84,
+				"Northing" : 172834.51,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.894743303297494, 51.4493026157422]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26409,
+				"Unit_Number" : 11,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476902.64,
+				"Northing" : 172835.47,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.894506143319053, 51.4492474331303]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26410,
+				"Unit_Number" : 12,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476919.21,
+				"Northing" : 172829.58,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.894467250193982, 51.4489319002494]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26411,
+				"Unit_Number" : 13,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476922.45,
+				"Northing" : 172794.53,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.894775250738803, 51.448854079127]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26412,
+				"Unit_Number" : 14,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476901.17,
+				"Northing" : 172785.55,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.895213184352733, 51.4488495758374]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26413,
+				"Unit_Number" : 15,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476870.75,
+				"Northing" : 172784.59,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.895466628530732, 51.4489281028962]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26414,
+				"Unit_Number" : 16,
+				"Street" : "ADDINGTON GARDENS",
+				"Sub_Area" : "Woodley",
+				"Area" : "Woodley",
+				"Location" : "CHECK LOCATION & UPDATE CO-ORDINATES?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 476853.01,
+				"Northing" : 172793.06,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.878640900948833, 51.4545978320466]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26482,
+				"Unit_Number" : 0,
+				"Street" : "CLOVER RISE",
+				"Sub_Area" : "Woodley Airfield",
+				"Area" : "Woodley",
+				"Location" : "Near flats? - CHECK LOCATION",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478012.57,
+				"Northing" : 173441.35,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.930981051513404, 51.455217309776]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26533,
+				"Unit_Number" : 0,
+				"Street" : "BRIDGES GROVE",
+				"Sub_Area" : "Earley",
+				"Area" : "Earley",
+				"Location" : "Side of 36 Chiltern Crescent - CHECK LOC",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 474374.92,
+				"Northing" : 173455.89,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.930751293440776, 51.4549487722379]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26534,
+				"Unit_Number" : 0,
+				"Street" : "BRIDGES GROVE",
+				"Sub_Area" : "Earley",
+				"Area" : "Earley",
+				"Location" : "O/s 10/12 opp. 8 at end of close - CHECK",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 474391.32,
+				"Northing" : 173426.26,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.866951105568389, 51.4135823555148]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26622,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "Side of 7 Suffolk Close - CHECK LOCATION",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478895.3,
+				"Northing" : 168892.49,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867034463908866, 51.4138505960758]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26623,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "South side of staggered jnct - CHECK LOC",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478889.04,
+				"Northing" : 168922.24,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.866614541391589, 51.4139552192125]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26624,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "In eastern cul de-sac - CHECK LOCATION",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478918.06,
+				"Northing" : 168934.32,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867492989944862, 51.4138054047797]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26625,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "In western cul-de-sac - CHECK LOCATION",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478857.23,
+				"Northing" : 168916.72,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867233983972384, 51.4140048945469]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26626,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "North side of staggered jnct - CHECK LOC",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478874.9,
+				"Northing" : 168939.18,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.867046203172124, 51.4142295232623]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26627,
+				"Unit_Number" : 0,
+				"Street" : "HAMPSHIRE CLOSE",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Woosehill",
+				"Area" : "Wokingham",
+				"Location" : "By f/p to Chestnut Ave. - CHECK LOCATION",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 478887.57,
+				"Northing" : 168964.36,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}, {
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [-0.810216148193705, 51.4100650137059]
+			},
+			"properties" : {
+				"Unique_Unit_ID" : 26749,
+				"Unit_Number" : 0,
+				"Street" : "WINDSOR CRESCENT",
+				"Locality" : "WOKINGHAM",
+				"Sub_Area" : "Wokingham",
+				"Area" : "Wokingham",
+				"Location" : "CHECK LOCATION PLUS OTHER COLUMNS?",
+				"Owner" : "Developer not adop'd",
+				"Maintained_by_WBC___True_or_Fal" : false,
+				"Maintenance_Responsibility" : "Contact Owner - Not maintained by WBC",
+				"Easting" : 482847.16,
+				"Northing" : 168563.84,
+				"Unit_Type" : "Lamp Column",
+				"Column___Unit_Height" : "5.0 metres",
+				"Column_Material" : "ALUMINIUM",
+				"Lamp_Type" : "CPO-TW045",
+				"Switching" : "All night"
+			}
+		}
+	]
+}
